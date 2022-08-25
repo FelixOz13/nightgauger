@@ -15,8 +15,7 @@
 }
 .carouselInner .left{
    flex: 5%;
-   height:50%;
-  
+   height:100%;
    display: grid;
    place-items:center;
    color:goldenrod;
