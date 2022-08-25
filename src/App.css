@@ -1,50 +1,34 @@
-.App {
-  width: 100vw;
-  height: 100vh;
-}
+
 
 body {
+  max-width: 100%;
   margin: 0;
   padding: 0;
   background-color: darkred;
 }
+.title{margin:15px;}
 
-.title {
+
+.heropic{
+  width: 90%;
+  height: 40%;
+  margin-left: 50px;
+  margin-top: 50px;;
+}
+.heropic3 {
+  width: 40%;
+  height: 20%;
+
+}
+.herotext{
   font-family: 'Signika Negative';
   color: blanchedalmond;
-  width: 9 rem;
-  height: 2rem;
-  margin-left: 3rem;
 }
+.heroes{
+  display: flex;
+  justify-content: center;
+  align-items:center ;
 
-.btn {
-  font-family: 'Signika Negative';
-  color: rgb(229, 147, 25);
-  width: 9 rem;
-  height: 2rem;
-  margin-left: 32rem;
-}
-
-.navlogo {
-
-  width: 9 rem;
-  height: 5rem;
-  margin-top: -1rem;
-}
-
-.hero {
-  font-family: 'Signika Negative';
-  color: blanchedalmond;
-  width: 9 rem;
-  height: 2rem;
-  margin: 1rem;
-}
-
-.heropic {
-
-  width: 80 rem;
-  height: 20rem;
-  margin: 1rem;
 }
 
 
