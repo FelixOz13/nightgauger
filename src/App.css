@@ -23,6 +23,7 @@ body {
 .herotext{
   font-family: 'Signika Negative';
   color: blanchedalmond;
+  margin: 25px;
 }
 .heroes{
   display: flex;

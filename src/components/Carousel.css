@@ -6,16 +6,16 @@
   
 }
 .carouselInner{
-  height: 100%;
-  width:100%;
+  height: 80%;
+  width:80%;
   background-position:center;
   background-repeat: no-repeat;
-  background-size:cover;
+  background-size:contain;
   display:flex;
 }
 .carouselInner .left{
    flex: 5%;
-   height:100%;
+   height:50%;
   
    display: grid;
    place-items:center;

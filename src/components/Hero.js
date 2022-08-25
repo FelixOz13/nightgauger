@@ -14,23 +14,18 @@ Flowing Oil & Gas
 Wells using
         Foaming Sticks </h1>
       
-<Carousel/>
+
 
       <div className="hero2">
-        <img className='heropic' src="assets/gasflow.png" alt="" />
-        <img className='heropic3' src="assets/gasflow2.png" alt="" />
-        <img className='heropic' src="assets/gasflow3.png" alt="" />
-         <img className='heropic' src="assets/gasflow19.png" alt="" />
+        
+        <Carousel/>
+        
          <h2 className="herotext">Unloading liquids from aging gas wells is a problem that every drilled well will eventually have to solve. There are many solutions marketed today but the US EPA did a study in 2010 and found Foam (Soap) Sticks as the most economical. All Technologies strive to do the same thing, Deliquefy the well. Since the the well is nearing the end of it's life, it only makes sense to minimalize the Capital Investment</h2>
          </div>
       
 
       <div className="hero3">
-       <img className='heropic' src="assets/gasflow3.png" alt="" />
-      <img className='heropic' src="assets/gasflow4.png" alt="" />
-      <img className='heropic' src="assets/gasflow5.png" alt="" />
-       <img className='heropic' src="assets/gasflow6.png" alt="" />
-      <img className='heropic' src="assets/gasflow7.png" alt="" />   
+       
      
         
          
@@ -44,13 +39,7 @@ Automatic Launchers, combined with Well Limiters, can increase
        
       
      
-      <img className='heropic' src="assets/gasflow8.png" alt="" />
-      <img className='heropic' src="assets/gasflow9.png" alt="" />
-      <img className='heropic' src="assets/gasflow10.png" alt="" />
-      <img className='heropic' src="assets/gasflow11.png" alt="" />
-      <img className='heropic' src="assets/gasflow12.png" alt="" />
-      <img className='heropic' src="assets/gasflow13.png" alt="" />
-      <img className='heropic' src="assets/gasflow14.png" alt="" />
+      
     
       <img className='heropic' src="assets/gasflow16.png" alt="" />
       <img className='heropic' src="assets/gasflow18.png" alt="" />
