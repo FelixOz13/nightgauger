@@ -25,12 +25,7 @@ Wells using
       
 
       <div className="hero3">
-       
-     
-        
-         
-       
-        <h3 className="herotext">Solid foam sticks, applied once per day, are designed to increase natural
+    <h3 className="herotext">Solid foam sticks, applied once per day, are designed to increase natural
 gas production by an average of 30-35%, by reducing the hydrostatic
 pressure on layer, achieved by the transformation in foam of the
 deposit water accumulated in well.
@@ -41,9 +36,7 @@ Automatic Launchers, combined with Well Limiters, can increase
      
       
     
-      <img className='heropic' src="assets/gasflow16.png" alt="" />
-      <img className='heropic' src="assets/gasflow18.png" alt="" />
-      <img className='heropic' src="assets/gasflow17.png" alt="" />
+      
     </div>
       </div>
       </div>
