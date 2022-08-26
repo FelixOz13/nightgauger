@@ -9,9 +9,7 @@ import Sillon3 from '../components/assets/gasflow9.png'
 import Sillon4 from '../components/assets/gasflow10.png'
 import Sillon5 from '../components/assets/gasflow11.png'
 import Sillon6 from '../components/assets/gasflow12.png'
-import Sillon7 from '../components/assets/gasflow13.png'
-import Sillon8 from '../components/assets/gasflow14.png'
-import Sillon9 from '../components/assets/gasflow15.png'
+
 import Sillon10 from '../components/assets/gasflow16.png'
 import Sillon11 from '../components/assets/gasflow18.png'
 import Sillon12 from '../components/assets/gasflow17.png'
@@ -81,29 +79,8 @@ export const images = [
     "subtitle": "Bienvenido a Night Gaugher9",
     "img": Sillon6,
 
-  },
-  {
-    "title": "Night Gauger11",
-    "subtitle": "Bienvenido a Night Gaugher10",
-    "img": Sillon7,
-
-  },
-  {
-    "title": "Night Gauger12",
-    "subtitle": "Bienvenido a Night Gaugher11",
-    "img": Sillon8,
-
-  },{
-    "title": "Night Gauger13",
-    "subtitle": "Bienvenido a Night Gaugher12",
-    "img": Sillon9,
-
-  },{
-    "title": "Night Gauger14",
-    "subtitle": "Bienvenido a Night Gaugher13",
-    "img": Sillon10,
-
-  },{
+  }
+ ,{
     "title": "Night Gauger15",
     "subtitle": "Bienvenido a Night Gaugher14",
     "img": Sillon11,

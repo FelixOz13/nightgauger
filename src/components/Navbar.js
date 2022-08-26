@@ -14,7 +14,7 @@ const Navbar = () => {
       <Nav>
        
         <NavLink to="/">
-           <img className="navlogo" src="assets/logo.png" width=" 100px" alt="" />
+           <img className="navlogo" src="assets/logo.png" width=" 60px" alt="" />
           <h1 className="title">Night Gauger</h1>
         </NavLink>
         <Bars />

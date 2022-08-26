@@ -7,23 +7,38 @@ body {
   background-color: darkred;
 }
 .title{margin:15px;}
+.navlogo{
+  margin-bottom:20px;
+}
 
 
 .heropic{
   width: 90%;
   height: 40%;
-  margin-left: 50px;
-  margin-top: 50px;;
+  margin-left: 20px;
+  margin-top: 30px;;
 }
 .heropic3 {
-  width: 40%;
-  height: 20%;
+  width: 20%;
+  height: 10%;
+  position: relative;
+  left:600px;
 
+}
+.herotitle {
+  font-family: 'Signika Negative';
+  color: darkred;
+  margin: 25px;
+  position: absolute;
+  top: 425px;
+  font-size: 5rem;
 }
 .herotext{
   font-family: 'Signika Negative';
   color: blanchedalmond;
   margin: 25px;
+  position: absolute;
+  top: 525px;
 }
 .heroes{
   display: flex;
@@ -31,6 +46,25 @@ body {
   align-items:center ;
 
 }
+.flexbox{
+  display:flex;
+  flex-direction: row;
+  margin:15px;
+  position: absolute;
+    top: 625px;
+    left:100px
+}
+.herotext2 {
+  font-family: 'Signika Negative';
+  color: blanchedalmond;
+  margin: 25px;}
+
+
+    .herotext3 {
+      font-family: 'Signika Negative';
+      color: blanchedalmond;
+      margin: 25px;
+    }
 
 
 
